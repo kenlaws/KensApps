@@ -8,11 +8,6 @@ These are apps that I have made or contributed to that are still available on th
 Created in **Swift 4**, localized into German, Chinese, and Japanese. A fun, addictive game about a cat.
 [Woggle](https://t.co/PS7GCPtUo3)
 
-## CrowdRise
-### Sole Programmer
-Created in **Swift 3**. A native iOS app for a mostly web-based company.
-[CrowdRise](https://appsto.re/i6d89QK)
-
 ## My Plate
 ### One of four engineers
 Bug fixes to old code in **Objective-C**, new code written in **Swift**. Added the exercise video feature and revamped onboarding, increasing user retention.
