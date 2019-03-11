@@ -3,6 +3,11 @@ Ken's Apps
 
 These are apps that I have made or contributed to that are still available on the App Store.
 
+## Sundoggy
+### Creator/Sole Programmer
+Created in **Swift 4.2**, Sundoggy shows you the current weather - with a appropriate dog. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The latest version includes a Watch app.
+[Sundoggy](https://itunes.apple.com/app/sundoggy/id1450765945)
+
 ## Woggle
 ### Co-Creator/Sole Programmer
 Created in **Swift 4**, localized into German, Chinese, and Japanese. A fun, addictive game about a cat.
