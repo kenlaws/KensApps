@@ -8,6 +8,11 @@ These are apps that I have made or contributed to that are still available on th
 Created in **Swift 4.2** and updated to **Swift 5**, Sundoggy shows you the current weather - with an appropriate dog. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The latest version includes a Watch app.
 [Sundoggy](https://itunes.apple.com/app/sundoggy/id1450765945)
 
+## Sunkitty
+### Creator/Sole Programmer
+A companion app to Sundoggy, this uses the same code base, but uses different assets.
+[Sunkitty](https://itunes.apple.com/app/sunkitty/id1455366565)
+
 ## Woggle
 ### Co-Creator/Sole Programmer
 Created in **Swift 4**, localized into German, Chinese, and Japanese. A fun, addictive game about a cat.
