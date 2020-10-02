@@ -28,10 +28,5 @@ Bug fixes to old code in **Objective-C**, new code written in **Swift**. Added t
 Originally written in **Objective-C**, I rewrote the app from scratch in **Swift 3** in 2017. It still uses the same **PHP** backend I wrote several years ago.
 [GVY](https://appsto.re/i6d85n2)
 
-## War at Sea
-### Creator/Sole Programmer
-The first app I wrote from scratch for the App Store, and my very first "calling card." Single player or multi-player using Game Center, localized into German, Chinese, Spanish, and Japanese. Amazingly, even though it hasn't been updated since late 2015, it runs perfectly on an iPhone XS with iOS 12, as well as an iPad Pro.
-[War at Sea](https://appsto.re/i6dj2TP)
-
 
 
