@@ -8,15 +8,15 @@ These are apps that I have made or contributed to that are still available on th
 Most of my work has been on the new Business Profile feature, along with some global UI element work. The app is written in **Swift 5**.
 [Venmo](https://apple.co/3cTPK7K)
 
+## Sunkitty
+### Creator/Sole Programmer
+Originally created in **Swift 4.2**, I updated it to **Swift 5**, and now **SwiftUI 2.0**. Sunkitty shows you the current weather - with an appropriate cat. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The new version works with **iOS**, **padOS**, **watchOS**, and now **tvOS**. It also has **widgets**, and a **Siri intent**.
+[Sunkitty](https://apple.co/3kz8bBt)
+
 ## Sundoggy
 ### Creator/Sole Programmer
 Created in **Swift 4.2** and updated to **Swift 5**, Sundoggy shows you the current weather - with an appropriate dog. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The latest version includes a Watch app.
 [Sundoggy](https://itunes.apple.com/app/sundoggy/id1450765945)
-
-## Sunkitty
-### Creator/Sole Programmer
-A companion app to Sundoggy, this uses the same code base, but uses different assets.
-[Sunkitty](https://itunes.apple.com/app/sunkitty/id1455366565)
 
 ## Woggle
 ### Co-Creator/Sole Programmer
