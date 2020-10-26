@@ -10,7 +10,7 @@ Most of my work has been on the new Business Profile feature, along with some gl
 
 ## Sunkitty
 ### Creator/Sole Programmer
-Originally created in **Swift 4.2**, I updated it to **Swift 5**, and now **SwiftUI 2.0**. Sunkitty shows you the current weather - with an appropriate cat. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The new version works with **iOS**, **padOS**, **watchOS**, and now **tvOS**. It also has **widgets**, and a **Siri intent**.
+Originally created in **Swift 4.2**, I updated it to **Swift 5**, and now **SwiftUI 2.0**. Sunkitty shows you the current weather - with an appropriate cat. The source API (Dark Skies) is very accurate, so this isn't simply a cute app, it really is useful. Besides using Apple's Geocoding to let you search for any city in the world, it also has a database of 19,000 airport codes (i.e., LAX, SJC.) The new version works with **iOS**, **padOS**, **watchOS**, and now **tvOS**. It also has **widgets**, and a **Siri intent**. Back end written with **Node.js**, **Express**, and **MongoDB**.
 [Sunkitty](https://apple.co/3kz8bBt)
 
 ## Sundoggy
@@ -30,7 +30,7 @@ Bug fixes to old code in **Objective-C**, new code written in **Swift**. Added t
 
 ## Go [Verb] Yourself
 ### Creator/Sole Programmer
-Originally written in **Objective-C**, I rewrote the app from scratch in **Swift 3** in 2017. It still uses the same **PHP** backend I wrote several years ago.
+Originally written in **Objective-C**, I rewrote the app from scratch in **Swift 3** in 2017. Back end written with **Node.js**, **Express**, **ejs**, and **MongoDB**.
 [GVY](https://appsto.re/i6d85n2)
 
 
